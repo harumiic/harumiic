@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, i'm Haruu! 🍓ꨄ
-
+<img src="URL_DEL_GIF" alt="Gif de bienvenida" width="400"/>
 </div>
 
 - 🔭 I am working on small university projects and personal projects that I am passionate about.
