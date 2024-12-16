@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, i'm Haruu! 🍓ꨄ
-<img src="https://i.pinimg.com/originals/65/05/77/650577673fad701100d239c52fb6f044.gif" alt="g" width="300"/>
+<img src="https://i.pinimg.com/originals/65/05/77/650577673fad701100d239c52fb6f044.gif" alt="g" width="200"/>
 </div>
 
 - 🔭 I am working on small university projects and personal projects that I am passionate about.
